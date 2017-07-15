@@ -1,0 +1,34 @@
+#spree-header{
+    background-color: #00ff00;
+}
+
+
+#default{
+    color: #041604;
+    font-family: 'Bree Serif', serif;
+    background-color: #00FFE4;
+}
+.breadcrumb{
+    background-color: #001604;
+}
+
+#home-page{
+    color: #800000;
+    font-family: 'Bree Serif', serif;
+    background-color: #DCFFE4;
+
+}
+.panel-body{
+    background-color: #041604;
+}
+.panel-footer{
+    background-color: black;
+}
+.a.list-group-item{
+    background-color: #001604;
+    color: black;
+}
+.list-group-item{
+    background-color: #001604;
+    color: black;
+}
